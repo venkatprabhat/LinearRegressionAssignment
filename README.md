@@ -33,7 +33,7 @@ To achieve this, the company is performing multiple linear regression on the Boo
 
 ## Conclusions
 
-- The R-squared value for the training set is 83.29%, while the test set value is 80.7%. This suggests that the model explains a significant portion of the variance in the test set, indicating it is a reliable model.
+- The R-squared value for the training set is 83.4%, while the test set value is 80.28%. This suggests that the model explains a significant portion of the variance in the test set, indicating it is a reliable model.
   
 - The mean squared error (MSE) of the developed model is nearly zero on both the training and test datasets, indicating that the variance is predicted accurately for the test set.
 
